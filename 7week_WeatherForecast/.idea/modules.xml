@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/7week_WeatherForecast.iml" filepath="$PROJECT_DIR$/7week_WeatherForecast.iml" group="7week_WeatherForecast" />
+      <module fileurl="file://$PROJECT_DIR$/app/7week_WeatherForecast-app.iml" filepath="$PROJECT_DIR$/app/7week_WeatherForecast-app.iml" group="7week_WeatherForecast/app" />
       <module fileurl="file://$PROJECT_DIR$/WeatherForecast.iml" filepath="$PROJECT_DIR$/WeatherForecast.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WeatherForecast-Initial_source.iml" filepath="$PROJECT_DIR$/WeatherForecast-Initial_source.iml" group="WeatherForecast-Initial_source" />
-      <module fileurl="file://$PROJECT_DIR$/app/WeatherForecast-Initial_source-app.iml" filepath="$PROJECT_DIR$/app/WeatherForecast-Initial_source-app.iml" group="WeatherForecast-Initial_source/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
